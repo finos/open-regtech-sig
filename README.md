@@ -1,6 +1,6 @@
 [![FINOS - Incubating](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-incubating.svg)](https://finosfoundation.atlassian.net/wiki/display/FINOS/Incubating)
 
-# Regulation Innovation Special Interest Group
+# FINOS Regulation Innovation Special Interest Group
 
 The FINOS Regulation Innovation [Special Interest Group (SIG)](https://github.com/finos/community/tree/master/governance#special-interest-groups) is a community of people interested in creating open source solutions for regulatory and compliance issues in financial services. Creating open source solutions to regulatory compliance is particularly important because the market is currently using custom-built, one-off solutions, that are expensive, inefficient, and costly to manage and update over time.
 
@@ -10,7 +10,7 @@ The Regulation Innovation SIG is part of the [FINOS Open RegTech Initiative](htt
 
 ## SIG Roadmap and Charter
 
-View the Regulation Innovation SIG Roadmap and Charter [here](https://github.com/finos/open-regtech/blob/master/Regulation%20Innovation%20SIG%20proposal.pdf)
+View the Regulation Innovation SIG Roadmap and Charter [here](https://github.com/finos/open-regtech/blob/master/Regulation%20Innovation%20SIG%20proposal.pdf).
 
 ## Get Involved
 

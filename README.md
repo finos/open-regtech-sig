@@ -6,9 +6,20 @@ The FINOS Regulation Innovation [Special Interest Group (SIG)](https://github.co
 
 The Regulation Innovation SIG was [proposed](https://github.com/finos/community/issues/66) by FINOS Member AIR - the Alliance for Innovative Regulation - in September 2020 and approved by the FINOS Governing board in October 2020. The Regulation Innovation SIG is chaired by David Ehrich, Executive Director, AIR, and Ian Hollowbread, Head of RegTech ING Labs, ING.
 
+The Regulation Innovation SIG is part of the [FINOS Open RegTech Initiative](https://www.finos.org/open-regtech).
+
 ## Roadmap
 
 See the Regulation Innovation SIG Roadmap at 
+
+## Get Involved
+
+### Regulation Innovation SIG Meetings
+Participants of the Regulation Innovation SIG meet biweekly on Tuesdays at 12pm ET/ 5pm GMT. See the [FINOS Project Meetings Calendar](https://calendar.google.com/calendar/u/0/embed?src=finos.org_fac8mo1rfc6ehscg0d80fi8jig@group.calendar.google.com&ctz=America/New_York) to find the next meeting. 
+
+### Mailing list
+All SIG related communications are conducted through the open-regtech@finos.org mailing list. Email open-regtech@finos.org with questions or suggestions for collaboration use cases. 
+Join the mailing list and stay up to date by sending a note to open-regtech+subscribe@finos.org.
 
 ## Contributing
 

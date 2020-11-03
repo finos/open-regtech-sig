@@ -1,46 +1,25 @@
 [![FINOS - Incubating](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-incubating.svg)](https://finosfoundation.atlassian.net/wiki/display/FINOS/Incubating)
-![website build](https://github.com/finos/open-regtech/workflows/Docusaurus-website-build/badge.svg)
 
 # Regulation Innovation Special Interest Group
 
-Short blurb about what your project does.
+The FINOS Regulation Innovation [Special Interest Group (SIG)](https://github.com/finos/community/tree/master/governance#special-interest-groups) is a community of people interested in creating open source solutions for regulatory and compliance issues in financial services. Creating open source solutions to regulatory compliance is particularly important because the market is currently using custom-built, one-off solutions, that are expensive, inefficient, and costly to manage and update over time.
 
-## Installation
+The Regulation Innovation SIG was [proposed](https://github.com/finos/community/issues/66) by FINOS Member AIR - the Alliance for Innovative Regulation - in September 2020 and approved by the FINOS Governing board in October 2020. The Regulation Innovation SIG is chaired by David Ehrich, Executive Director, AIR, and Ian Hollowbread, Head of RegTech ING Labs, ING.
 
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
-
-## Usage example
-
-A few motivating and useful examples of how your project can be used. Spice this up with code blocks and potentially screenshots / videos ([LiceCap](https://www.cockos.com/licecap/) is great for this kind of thing).
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
+The Regulation Innovation SIG is part of the [FINOS Open RegTech Initiative](https://www.finos.org/open-regtech).
 
 ## Roadmap
 
-List the roadmap steps; alternatively link the Confluence Wiki page where the project roadmap is published.
+See the Regulation Innovation SIG Roadmap at 
 
-1. Item 1
-2. Item 2
-3. ....
+## Get Involved
+
+### Regulation Innovation SIG Meetings
+Participants of the Regulation Innovation SIG meet biweekly on Tuesdays at 12pm ET/ 5pm GMT. See the [FINOS Project Meetings Calendar](https://calendar.google.com/calendar/u/0/embed?src=finos.org_fac8mo1rfc6ehscg0d80fi8jig@group.calendar.google.com&ctz=America/New_York) to find the next meeting. 
+
+### Mailing list
+All SIG related communications are conducted through the open-regtech@finos.org mailing list. Email open-regtech@finos.org with questions or suggestions for collaboration use cases. 
+Join the mailing list and stay up to date by sending a note to open-regtech+subscribe@finos.org.
 
 ## Contributing
 
@@ -63,3 +42,5 @@ Copyright 2020 Fintech Open Source Foundation
 Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 SPDX-License-Identifier: [Apache-2.0](https://spdx.org/licenses/Apache-2.0)
+
+Documents produced or contributed as part of the SIG will be contributed and made available under CC-BY-4.0.

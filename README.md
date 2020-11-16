@@ -21,7 +21,9 @@ View the Regulation Innovation SIG Roadmap and Charter [here](https://github.com
 ## Get Involved
 
 ### Regulation Innovation SIG Meetings
-Participants of the Regulation Innovation SIG meet biweekly on Tuesdays at 12pm ET/ 5pm GMT. See the [FINOS Project Meetings Calendar](https://calendar.google.com/calendar/u/0/embed?src=finos.org_fac8mo1rfc6ehscg0d80fi8jig@group.calendar.google.com&ctz=America/New_York) to find the next meeting. 
+Participants of the Regulation Innovation SIG meet biweekly on Tuesdays at 12pm ET/ 5pm GMT. See the [FINOS Project Meetings Calendar](https://calendar.google.com/calendar/u/0/embed?src=finos.org_fac8mo1rfc6ehscg0d80fi8jig@group.calendar.google.com&ctz=America/New_York) to find the next meeting.
+
+Browse past meeting minutes and upcoming meeting agendas [here](https://github.com/finos/open-regtech/issues?q=label%3Ameeting+).
 
 ### Mailing list
 All SIG related communications are conducted through the open-regtech@finos.org mailing list. Email open-regtech@finos.org with questions or suggestions for collaboration use cases. 

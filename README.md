@@ -8,6 +8,12 @@ The Regulation Innovation SIG was [proposed](https://github.com/finos/community/
 
 The Regulation Innovation SIG is part of the [FINOS Open RegTech Initiative](https://www.finos.org/open-regtech).
 
+## FINOS Regulation Innovation Special Interest Group in the News
+- **Markets Media** *[FINOS launches Open RegTech Initiative](https://www.marketsmedia.com/finos-launches-open-regtech-initiative/)*
+- **FinExtra**: *[FINOS extends Open Source Project to RegTech](https://www.finextra.com/pressarticle/84971/finos-extends-open-source-project-to-regtech?utm_medium=rssfinextra&utm_source=finextrafeed)*
+- **Bloomberg**: *[FINOS Launches Open Regtech Initiative as it Receives Record High Number of Open Source Contributions](https://www.bloomberg.com/press-releases/2020-11-13/finos-launches-open-regtech-initiative-as-it-receives-record-high-number-of-open-source-contributions)*
+- **Yahoo! Finance**: *[FINOS Launches Open Regtech Initiative as It Receives Record High Number of Open Source Contributions](https://finance.yahoo.com/news/finos-launches-open-regtech-initiative-050000867.html)*
+
 ## SIG Roadmap and Charter
 
 View the Regulation Innovation SIG Roadmap and Charter [here](https://github.com/finos/open-regtech/blob/master/Regulation%20Innovation%20SIG%20proposal.pdf).

@@ -1,4 +1,5 @@
-[![FINOS - Incubating](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-incubating.svg)](https://finosfoundation.atlassian.net/wiki/display/FINOS/Incubating)
+
+<img src="https://github.com/finos/branding/blob/master/sig-logos/regulation-innovation-sig/Horizontal/2020_REGSIG_Logo_Horizontal.svg" width="400">
 
 # FINOS Regulation Innovation Special Interest Group
 

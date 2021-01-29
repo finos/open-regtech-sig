@@ -25,7 +25,7 @@ The first goal is to see how CDM/Rosetta concepts translate to Morphir. We’re 
  
 Another goal is to see how we would write the same regulations in more idiomatic Morphir in order to take advantage of the correctness guarantees, etc. That would allow us to study and compare the two approaches for managing complex regulations, especially with respect to correctness, transparency, and flexibility.
 
-## Rosetta CDM - Regnosys
+## Rosetta CDM
 Presented by Regnosys at the [November 24th 2020 Regulation Innovation SIG meeting](https://github.com/finos/open-regtech-sig/issues/10)
 
 ### Overview

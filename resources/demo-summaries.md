@@ -1,4 +1,4 @@
-# Open RegTech SIG Demo Summaries
+# Regulation Innovation SIG Demo Summaries
 
 Below is a list of the solutions and use cases that have been presented at [Regulation Innovation SIG meetings](https://github.com/finos/open-regtech-sig/issues?q=label%3Ameeting). 
 

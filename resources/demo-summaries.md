@@ -62,6 +62,12 @@ In addition we think that an open RegTech text corpus and open RegTech language 
 ## Crypto Tech Sprint
 Presented by AIR at the [January 19th 2021 Regulation Innovation SIG meeting](https://github.com/finos/open-regtech-sig/issues/16)
 
+### Overview
+Cryptocurrency has become a dominant payment method for CSAM, and in the past five years there has been proliferation in the creation of cryptocurrency paywalls to gain access to the material. Unlike cash, crypto is traceable, but traditional anti-money laundering technology and current law enforcement techniques are often ineffective in detecting and intercepting it. AIR held a virtual TechSprint in October 2020 to surface new models of traceability and explore technological solutions to combat and apprehend perpetrators of these heinous crimes.
+
+### Opportunity for Open Source Collaboration
+The TechSprint brought together technologists and subject matter experts from regulatory agencies, fintechs and crypto firms, banks, consultancies and academia. Participants collaborated on a FINOS hosted GitHub repo to build solutions aimed at curtailing CSAM by detecting users through their cryptocurrency payment activities, without compromising the privacy and data security of innocent people. All the teams were invited to present their solutions to the senior leadership team at FinCEN.  
+
 ## Federated AML Knowledge Base
 Presented by Tookitaki at the [January 19th 2021 Regulation Innovation SIG meeting](https://github.com/finos/open-regtech-sig/issues/16)
 

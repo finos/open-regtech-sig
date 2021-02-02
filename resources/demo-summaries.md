@@ -48,6 +48,25 @@ Presented by Deloitte at the [November 24th 2020 Regulation Innovation SIG meeti
 ## Orchestrate 
 Presented by ING at the [December 8th 2020 Regulation Innovation SIG meeting](https://github.com/finos/open-regtech-sig/issues/13)
 
+### Overview
+The potential of RegTech extends well beyond levels of compliance. Implemented correctly it can also become an embedded driver for transformation and a source of value creation.
+
+Regulation matters, it affects every one of our employees, our customers and our shareholders. If we can therefore ‘make things better’ using ‘RegTech’ as a fundamental  driver for change within our ‘digital’ or ‘agile’ transformation journeys then we believe that this will result in positive outcomes for financial institutions and for the industry at large.  
+
+At the heart of our ‘Orchestrate’ journey is a strong belief in ‘collaboration’, ‘trust’ and ‘innovation’.  All efforts and successes to date have focused around these core tenets. Regulators do not set regulations with single institutions in mind, they set them for the industry – Our approach to ‘RegTech’ is therefore industry led.
+
+We recognise the considerable complexities involved within the ‘Regulatory’ domain which is why we engage with the industry and domain experts, and work closely alongside global regulators to help us on our journey.  Our relationships with global RegTech ecosystem enables enables us to rapidly evaluate the marketplace and opportunities effectively. 
+
+We remain emerging technology agnostic, however the thesis for ‘Orchestrate’ is built on containerization.  Container Technology allows development to move fast and enables software to be deployed consistently at scale.  Containers offer logical packaging and provide a clean separation of concerns for the new RegTech market place.  
+
+We are excited about the potential of this initiative  as well as our vision for the Orchestrate platform. 
+
+### Opportunity for Open Source Collaboration
+Better outcomes through:
+- **Connected Ecosystems**: Providing the ability to test, validate and adopt emerging technologies together to solve real business challenges and reduce the barriers 
+- **RegTech App Store**: A RegTech application store  containing ‘Trusted and proven’ RegTechs that can be easily accessed on the desktop by all levels and delivering different levels of detail
+- **Advanced Solutions**: From oversight of a bank level dashboard to evidencing a case.  This is through a platform  that stiches together a variety of RegTech Solutions, relevant data can evidence and drive action
+
 ## RegTech Taxonomy  
 Presented by Apiax at the [December 8th 2020 Regulation Innovation SIG meeting](https://github.com/finos/open-regtech-sig/issues/13)
 

@@ -90,6 +90,20 @@ The TechSprint brought together technologists and subject matter experts from re
 ## Federated AML Knowledge Base
 Presented by Tookitaki at the [January 19th 2021 Regulation Innovation SIG meeting](https://github.com/finos/open-regtech-sig/issues/16)
 
+### Overview
+Detection of financial crime has become extremely difficult due to massive digitalization and increased use of digital payment/transaction channels. As criminals are able to conduct transactions almost anonymously and at high speed, it is vital to keep AML investigators abreast of the latest techniques criminals and terrorists employ to launder money. 
+
+Tookitaki’s Federated AML Knowledgebase collates intelligence gathered from AML experts, regulators, financial institutions and industry partners from across the globe. The ready-to-use database is searchable and interactive to allow AML investigators and analysts to consult and conduct their research. 
+
+Tookitaki has classified the typologies according to the industry, business line and theme to aid accessibility. Privacy is protected at all times, removing a major concern preoccupying compliance officers over disclosure breaches of customers’ personal or commercial sensitive information. Tookitaki’s ‘Hub and Spoke model’ provides access to the latest and emerging money laundering patterns and scenarios across the globe, thereby scaling one financial institution to a community of financial institutions across stateliness and jurisdictions. As soon as a new money laundering typology is identified, Tookitaki technology provides regular updates for sharing across the user base of Tookitaki’s suite of AI-powered AML software to promote crime prevention. Users have the ability to ingest specific money laundering patterns and automatically create thousands of relevant risk indicators, when overlaid on their dataset. These risk indicators are then auto picked by pre-defined machine learning models to detect suspicious cases. 
+
+### Opportunity for Open Source Collaboration
+
+Federated AML knowledgebase can make a vital contribution to the banking system’s efforts to address the global scourge of money laundering. If it is to be successful, it needs to be a collective effort through centralized intelligence-gathering. 
+
+We are building the largest database of ready to use money laundering patterns which is powered by a community of AML experts. Tookitaki has created a user interface for the public, specifically AML practitioners and experts, to create machine-readable typologies with ease. The framework allows the public to share their vital information on financial crime patterns and techniques for the use of financial institutions, helping effectively safeguard financial systems and societies. Collaborators will have access to a growing library of AML patterns and scenarios and will have the ability to create private federated networks and define the AML industry’s federate learning standards and protocols. 
+
+
 ## AML
 Presented by Matt van Buskirk (Hummingbird Regtech) at the [January 19th 2021 Regulation Innovation SIG meeting](https://github.com/finos/open-regtech-sig/issues/16)
 

@@ -17,7 +17,7 @@ The Regulation Innovation SIG is part of the [FINOS Open RegTech Initiative](htt
 
 ## SIG Roadmap and Charter
 
-View the Regulation Innovation SIG Roadmap and Charter [here](https://github.com/finos/open-regtech/blob/master/Regulation%20Innovation%20SIG%20proposal.pdf).
+View the Regulation Innovation SIG Roadmap and Charter [here](https://github.com/finos/open-regtech-sig/blob/master/resources/20201021%20Regulation%20Innovation%20SIG%20proposal.pdf).
 
 ## Get Involved
 

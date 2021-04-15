@@ -1,6 +1,6 @@
 # Regulation Innovation SIG Demo Summaries
 
-Below is a list of the solutions and use cases that have been presented at [Regulation Innovation SIG meetings](https://github.com/finos/open-regtech-sig/issues?q=label%3Ameeting). 
+Below is a list of the solutions and use cases that have been proposed at [Regulation Innovation SIG meetings](https://github.com/finos/open-regtech-sig/issues?q=label%3Ameeting). 
 
 If you presented at a Regulation Innovation SIG meeting and your demo is not included below, feel free to submit a PR to add it, and reach out to help@finos.org if you need assistance.
 
@@ -107,4 +107,36 @@ We are building the largest database of ready to use money laundering patterns w
 ## AML
 Presented by Matt van Buskirk (Hummingbird Regtech) at the [January 19th 2021 Regulation Innovation SIG meeting](https://github.com/finos/open-regtech-sig/issues/16)
 
+## Regulatory Taxonomy and Ontology Development
+Presented by James Nicholls (Braithwate) at the [April 6th 2021 Regulation Innovation SIG meeting](https://github.com/finos/open-regtech-sig/issues/24)
 
+### Overview
+With an ever increasing volume of regulation, manual processes for managing firms’ regulatory obligations no longer suffice, from a practical perspective and in the eyes of many supervisors. In response, the RegTech industry has developed dozens of tools to keep track of regulatory updates and provide firms with an electronic inventory of their obligations.
+
+These tools largely follow a common approach:
+
+- gather content from regulators;
+- store it in a proprietary structured data format;
+- apply some degree of tagging to classify the regulatory obligations in the text (with or without the use of AI and ML);
+- present the content to users via a searchable interface.
+ 
+While this structured, tool-based approach is vastly superior to the spreadsheets used by many firms, two key issues remain:
+
+RegTech tools classify the regulatory text in an inconsistent manner and the RegTech vendor’s algorithm is largely proprietary and often black-box => this creates potential regulatory risk as Compliance professionals are often unsure what interpretation of the regulation is taking place in the tool;
+Firms deploy teams of legal, compliance and consultancy resource to codify the profile of their business (e.g. Products, Services, Customers, Jurisdictions etc.).  This incurs high costs and produces inconsistent and duplicative outputs, as this is done ad-hoc each time a RegTech tool is implemented at a firm => this is wasteful and creates a risk of inconsistent interpretation across firms.
+ 
+### Opportunity for open source collaboration
+The proposal is three-fold: 
+1. A set of open-source taxonomies to categorise regulatory obligations;
+2. An open-source ontology to provide a semantic layer on top of the taxonomic concepts;
+3. An open-source standard [taxonomy] for profiling a financial services business.
+ 
+By making these standards open source and creating a utility tools to deploy them, the industry will benefit from:
+
+A significant reduction in wasted development effort;
+Improved transparency and lineage regarding the regulatory interpretation;
+Increased interoperability of RegTech solutions – enabling plug and play choices for firms and vendors.
+ 
+Commercial enterprises may leverage these open standards to ensure that their solutions can improve firms’ compliance management with a greater level of integrity and efficiency.
+
+These provide multiple opportunities to reduce cost and risk for firms, vendors and regulators – thereby improving the end-to-end ecosystem of regulatory change.

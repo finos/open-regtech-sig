@@ -108,7 +108,9 @@ We are building the largest database of ready to use money laundering patterns w
 Presented by Matt van Buskirk (Hummingbird Regtech) at the [January 19th 2021 Regulation Innovation SIG meeting](https://github.com/finos/open-regtech-sig/issues/16)
 
 ## Regulatory Taxonomy and Ontology Development
-Presented by James Nicholls (Braithwate) at the [April 6th 2021 Regulation Innovation SIG meeting](https://github.com/finos/open-regtech-sig/issues/24)
+Presented by James Nicholls (Braithwate) at the [April 6th 2021 Regulation Innovation SIG meeting](https://github.com/finos/open-regtech-sig/issues/24).
+
+[**Watch** James Nicholls and Sarah Sinclair's presentation](https://www.finos.org/hubfs/FINOS/2021%20Audio%20and%20Video/FINOS%20Innovation%20Reg%20SIG%20-%2004%20May%202a-FINOS%20MPEG-4.mp4) at the [May 4th 2021 Regulation Innovation SIG meeting](https://github.com/finos/open-regtech-sig/issues/24).
 
 ### Overview
 With an ever increasing volume of regulation, manual processes for managing firms’ regulatory obligations no longer suffice, from a practical perspective and in the eyes of many supervisors. In response, the RegTech industry has developed dozens of tools to keep track of regulatory updates and provide firms with an electronic inventory of their obligations.

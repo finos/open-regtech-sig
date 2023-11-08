@@ -44,10 +44,8 @@ MMM DD YYYY - 12pm EST / 5pm GMT
 - [ ] Action 2
 - [ ] ...
 
-### WebEx info
-- Meeting link: https://finos.webex.com/finos/j.php?MTID=m6be3cd5cdc56622e15e74fbd30e7253c
-- Meeting number:  127 759 5114
-- Password: d9kKJPdX5C9
-- More ways to join: 
-    - Join by video system: Dial 1279881411@finos.webex.com. You can also dial 173.243.2.68 and enter your meeting number.
-    - Join by phone: +1-415-655-0003 US Toll | +44-20319-88141 UK Toll | Access code: 127 759 5114
+### Join Zoom Meeting
+https://zoom.us/j/95819415471?pwd=VmxmeExMcXJFZWs4OGtnTXBiWnVHdz09
+- Meeting ID: 958 1941 5471
+- Passcode: 915672
+- Find your local number: https://zoom.us/u/acoFmoLAFE

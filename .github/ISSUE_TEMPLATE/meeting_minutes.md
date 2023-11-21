@@ -45,7 +45,7 @@ MMM DD YYYY - 12pm EST / 5pm GMT
 - [ ] ...
 
 ### Join Zoom Meeting
-https://zoom.us/j/95819415471?pwd=VmxmeExMcXJFZWs4OGtnTXBiWnVHdz09
-- Meeting ID: 958 1941 5471
-- Passcode: 915672
+https://zoom.us/j/95819415471
+- **Meeting ID**: 958 1941 5471
+- **Passcode**: 915672
 - Find your local number: https://zoom.us/u/acoFmoLAFE

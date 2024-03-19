@@ -3,7 +3,7 @@
 
 # FINOS Regulation Innovation Special Interest Group
 
-The FINOS Regulation Innovation [Special Interest Group (SIG)](https://github.com/finos/community/tree/master/governance#special-interest-groups) is a community of people interested in creating open source solutions for regulatory and compliance issues in financial services. Creating open source solutions to regulatory compliance is particularly important because the market is currently using custom-built, one-off solutions, that are expensive, inefficient, and costly to manage and update over time.
+The FINOS Regulation Innovation [Special Interest Group (SIG)](https://github.com/finos/community/tree/main/docs/governance#special-interest-groups) is a community of people interested in creating open source solutions for regulatory and compliance issues in financial services. Creating open source solutions to regulatory compliance is particularly important because the market is currently using custom-built, one-off solutions, that are expensive, inefficient, and costly to manage and update over time.
 
 The Regulation Innovation SIG was [proposed](https://github.com/finos/community/issues/66) by FINOS Member AIR - the Alliance for Innovative Regulation - in September 2020 and approved by the FINOS Governing board in October 2020. The Regulation Innovation SIG is chaired by David Ehrich, Executive Director, AIR, and Ian Hollowbread, Head of RegTech ING Labs, ING.
 

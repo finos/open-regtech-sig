@@ -1,5 +1,5 @@
 
-<img src="https://github.com/finos/branding/blob/master/sig-logos/regulation-innovation-sig/Horizontal/2020_REGSIG_Logo_Horizontal.svg" width="400">
+<img src="https://github.com/finos/branding/blob/master/sig-logos/Regulation%20Innovation/Horizontal/2020_REGSIG_Logo_Horizontal.svg" width="400">
 
 # FINOS Regulation Innovation Special Interest Group
 
